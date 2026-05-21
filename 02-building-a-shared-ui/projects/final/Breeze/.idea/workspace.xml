@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1f32391-68a4-46c6-bfde-f8fa852285e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/expanded/expanded.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/3sjtegk34idmipi9h6cqrsvri/candidates.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/41c0all21mkcdv07j6udueiu7/candidates.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/6jiawyo5lu0ljq527v881vyhk/candidates.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/configuration-cache.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Breeze.iosApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/composeApp_js.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/composeApp_jvm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/composeApp_wasm_js.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deviceManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/receipt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/xcode.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.annotation-annotation-1.9.1-commonMain-WmoUwA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.annotation-annotation-1.9.1-nonJvmMain-WmoUwA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.collection-collection-1.5.0-commonMain-j7f1lg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.collection-collection-1.5.0-darwinMain-1oCDtg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.collection-collection-1.5.0-nativeMain-j7f1lg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.collection-collection-1.5.0-nonJvmMain-j7f1lg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.collection-collection-1.5.0-unixMain-j7f1lg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-1.10.0-commonMain-jL1lig.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-1.10.0-darwinMain-LBH16w.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-1.10.0-nativeMain-jL1lig.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-1.10.0-nonAndroidMain-jL1lig.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-1.10.0-nonJvmMain-jL1lig.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-1.10.0-unixMain-jL1lig.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-1.10.0-webMain-jL1lig.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-annotation-1.10.0-commonMain-stVLwg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-retain-1.10.0-commonMain-gAgqGg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-retain-1.10.0-nonJvmMain-gAgqGg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-saveable-1.10.0-commonMain-2vxcdQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.graphics-graphics-shapes-1.1.0-commonMain-fBTZNQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.graphics-graphics-shapes-1.1.0-nonJvmMain-fBTZNQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-common-2.9.4-commonMain-2l5nFA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-common-2.9.4-nonJvmMain-2l5nFA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-runtime-2.9.4-commonMain-IrcNlw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-runtime-2.9.4-nativeMain-IrcNlw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-runtime-2.9.4-nonJvmMain-IrcNlw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-runtime-2.9.4-webMain-IrcNlw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-runtime-compose-2.9.4-commonMain-Jyns3Q.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-runtime-compose-2.9.4-nonAndroidMain-Jyns3Q.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-2.9.4-commonMain-YZugNA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-2.9.4-darwinMain-eMK4cw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-2.9.4-nativeMain-YZugNA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-2.9.4-nonJvmMain-YZugNA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-2.9.4-unixMain-YZugNA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-2.9.4-webMain-YZugNA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-savedstate-2.9.4-commonMain-KTe1Gw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-savedstate-2.9.4-nativeMain-KTe1Gw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-savedstate-2.9.4-nonAndroidMain-KTe1Gw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-savedstate-2.9.4-webMain-KTe1Gw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.navigationevent-navigationevent-1.0.1-commonMain-CVCQsg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.navigationevent-navigationevent-1.0.1-darwinMain-v-PyAQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.navigationevent-navigationevent-1.0.1-nativeMain-CVCQsg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.navigationevent-navigationevent-1.0.1-unixMain-CVCQsg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.savedstate-savedstate-1.3.3-commonMain-NwmUsg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.savedstate-savedstate-1.3.3-darwinMain-lUxrqA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.savedstate-savedstate-1.3.3-nativeMain-NwmUsg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.savedstate-savedstate-1.3.3-nonAndroidMain-NwmUsg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.savedstate-savedstate-1.3.3-unixMain-NwmUsg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.savedstate-savedstate-1.3.3-webMain-NwmUsg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.savedstate-savedstate-compose-1.3.3-commonMain-9pLK_g.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.savedstate-savedstate-compose-1.3.3-nonAndroidMain-9pLK_g.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-common-2.9.6-commonMain-_EOCYQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-runtime-2.9.6-commonMain-WvMiUA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-runtime-compose-2.9.6-commonMain-MM2pxQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-2.9.6-commonMain-o5UeXw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-compose-2.9.6-commonMain-dmNbXw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-compose-2.9.6-nativeMain-OmkHFA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-compose-2.9.6-nonAndroidMain-dmNbXw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-compose-2.9.6-webMain-dmNbXw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-savedstate-2.9.6-commonMain-HvVjYQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.savedstate-savedstate-1.3.6-commonMain-Gx5ULw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.androidx.savedstate-savedstate-compose-1.3.6-commonMain-Fw7d1w.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.animation-animation-1.10.0-commonMain-XCRBBA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.animation-animation-1.10.0-nonAndroidMain-XCRBBA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.animation-animation-1.10.0-nonJvmMain-XCRBBA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.animation-animation-core-1.10.0-commonMain-Y18Qzg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.animation-animation-core-1.10.0-nonJvmMain-Y18Qzg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.annotation-internal-annotation-1.10.0-commonMain-jG1XTg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.collection-internal-collection-1.10.0-commonMain-PdmhIQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.10.0-blockingMain-OSNkTw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.10.0-commonMain-OSNkTw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.10.0-iosMain-_aNPIA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.10.0-nativeMain-_aNPIA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.10.0-skikoMain-OSNkTw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.10.0-webMain-OSNkTw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-1.10.0-commonMain-buy1Tw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-1.10.0-darwinMain-BSwZaQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-1.10.0-nativeMain-BSwZaQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-1.10.0-nonJvmMain-buy1Tw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-1.10.0-skikoMain-buy1Tw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-1.10.0-uikitMain-BSwZaQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-1.10.0-webMain-buy1Tw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-layout-1.10.0-commonMain-pSMAXg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-layout-1.10.0-nonJvmMain-pSMAXg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-layout-1.10.0-skikoMain-pSMAXg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material-material-ripple-1.10.0-commonMain-lNakwA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material-material-ripple-1.10.0-nonAndroidMain-lNakwA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material3-material3-1.10.0-alpha05-commonMain-svJmsQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material3-material3-1.10.0-alpha05-darwinMain-7YR-1Q.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material3-material3-1.10.0-alpha05-nativeMain-7YR-1Q.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material3-material3-1.10.0-alpha05-nonJvmMain-svJmsQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material3-material3-1.10.0-alpha05-skikoMain-svJmsQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material3-material3-1.10.0-alpha05-webMain-svJmsQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.runtime-runtime-1.10.0-commonMain-y8wUOA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.runtime-runtime-saveable-1.10.0-commonMain-uS-nIg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-1.10.0-commonMain-Ikk6iA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-1.10.0-nativeMain-NIMPcw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-1.10.0-nonJvmMain-Ikk6iA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-1.10.0-skikoMain-Ikk6iA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-1.10.0-uikitMain-NIMPcw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-1.10.0-webMain-Ikk6iA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-backhandler-1.10.0-commonMain-CRGTfA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-backhandler-1.10.0-jbMain-CRGTfA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-geometry-1.10.0-commonMain-qqJ-Hg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-graphics-1.10.0-commonMain-DCwFSQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-graphics-1.10.0-nativeMain-SQidgQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-graphics-1.10.0-nonJvmMain-DCwFSQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-graphics-1.10.0-skikoExcludingWebMain-DCwFSQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-graphics-1.10.0-skikoMain-DCwFSQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-graphics-1.10.0-webMain-DCwFSQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-text-1.10.0-commonMain-kU2cPg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-text-1.10.0-darwinMain-PRSAaQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-text-1.10.0-nativeMain-PRSAaQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-text-1.10.0-nonJvmMain-kU2cPg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-text-1.10.0-skikoMain-kU2cPg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-text-1.10.0-uikitMain-PRSAaQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-text-1.10.0-webMain-kU2cPg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-tooling-preview-1.10.0-commonMain-8Expeg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-tooling-preview-1.10.0-nonJvmMain-8Expeg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-uikit-1.10.0-uikitMain-Q1SrDw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-unit-1.10.0-commonMain-JGR4Tw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-unit-1.10.0-nonAndroidMain-JGR4Tw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-unit-1.10.0-nonJvmMain-JGR4Tw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-util-1.10.0-commonMain-WTwl9g.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-util-1.10.0-nonJvmMain-WTwl9g.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-util-1.10.0-uikitMain-sNYMHg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-util-1.10.0-webMain-WTwl9g.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlin-kotlin-stdlib-2.3.0-commonMain-1ooqQQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlin-kotlin-stdlib-2.3.0-commonNonJvmMain-1ooqQQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlin-kotlin-stdlib-2.3.0-webMain-1ooqQQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlin-kotlin-test-2.3.0-annotationsCommonMain-XnM9dw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlin-kotlin-test-2.3.0-assertionsCommonMain-XnM9dw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-atomicfu-0.27.0-commonMain-7K06eQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-atomicfu-0.27.0-nativeMain-7K06eQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-atomicfu-0.27.0-nativeUnixLikeMain-7K06eQ.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.10.2-commonMain-wJOvIw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.10.2-concurrentMain-wJOvIw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.10.2-nativeMain-wJOvIw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-datetime-0.7.1-commonKotlinMain-uTxUqg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-datetime-0.7.1-commonMain-uTxUqg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-datetime-0.7.1-darwinMain-HeEIcg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-datetime-0.7.1-tzdbOnFilesystemMain-uTxUqg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-datetime-0.7.1-tzfileMain-uTxUqg.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-serialization-core-1.7.3-commonMain-s2qClw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-serialization-core-1.7.3-nativeMain-s2qClw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.skiko-skiko-0.9.37.3-commonMain-aAAseA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.skiko-skiko-0.9.37.3-darwinMain-TtyIcw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.skiko-skiko-0.9.37.3-iosMain-TtyIcw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.skiko-skiko-0.9.37.3-nativeJsMain-aAAseA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.skiko-skiko-0.9.37.3-nativeMain-aAAseA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.skiko-skiko-0.9.37.3-uikitMain-TtyIcw.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.skiko-skiko-0.9.37.3-webMain-aAAseA.klib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/configuration-cache/3sjtegk34idmipi9h6cqrsvri/dy0gk17z52p8xw9orbrofcsw7/configuration-cache-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/configuration-cache/6jiawyo5lu0ljq527v881vyhk/e4th5wgujvwdz2619w9sghkqu/configuration-cache-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/.yarn-integrity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/CheatSheet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/dist/js-joda.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/dist/js-joda.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/dist/js-joda.flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/dist/js-joda.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/dist/js-joda.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/dist/js-joda.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/Clock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/DayOfWeek.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/Duration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/Enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/Instant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/LocalDate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/LocalDateTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/LocalTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/MathUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/Month.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/MonthDay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/OffsetDateTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/OffsetTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/Period.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/StringUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/Year.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/YearConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/YearMonth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/ZoneId.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/ZoneIdFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/ZoneOffset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/ZoneRegion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/ZonedDateTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/assert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/chrono/ChronoLocalDate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/chrono/ChronoLocalDateTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/chrono/ChronoZonedDateTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/chrono/IsoChronology.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/convert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/DateTimeBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/DateTimeFormatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/DateTimeFormatterBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/DateTimeParseContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/DateTimePrintContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/DecimalStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/EnumMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/ParsePosition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/ResolverStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/SignStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/StringBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/TextStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/parser/CharLiteralPrinterParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/parser/CompositePrinterParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/parser/FractionPrinterParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/parser/NumberPrinterParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/parser/OffsetIdPrinterParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/parser/PadPrinterParserDecorator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/parser/SettingsParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/parser/StringLiteralPrinterParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/format/parser/ZoneIdPrinterParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/js-joda.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/license-preamble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/ChronoField.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/ChronoUnit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/DefaultInterfaceTemporal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/IsoFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/NativeJsTemporal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/Temporal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/TemporalAccessor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/TemporalAdjuster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/TemporalAdjusters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/TemporalAmount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/TemporalField.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/TemporalQueries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/TemporalQueriesFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/TemporalQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/TemporalUnit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/temporal/ValueRange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/use.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/zone/SystemDefaultZoneId.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/zone/SystemDefaultZoneRules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/zone/ZoneOffsetTransition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/zone/ZoneRules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/@js-joda/core/src/zone/ZoneRulesProvider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/Breeze-composeApp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/Breeze-composeApp-test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/Kotlin-DateTime-library-kotlinx-datetime-wasm-js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/skiko-js-wasm-runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/node_modules/skiko-wasm-js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/Breeze-composeApp.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/Breeze-composeApp.uninstantiated.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/Breeze-composeApp.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/Breeze-composeApp.wasm.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/composeResources/breeze.composeapp.generated.resources/drawable/compose-multiplatform.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/custom-formatters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/js-reexport-symbols.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/skiko.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/skiko.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/skikod8.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/kotlin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages/Breeze-composeApp/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/.visited-gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/Kotlin-DateTime-library-kotlinx-datetime-wasm-js/0.7.1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/skiko-js-wasm-runtime/0.9.37-3/js-reexport-symbols.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/skiko-js-wasm-runtime/0.9.37-3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/skiko-js-wasm-runtime/0.9.37-3/skiko.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/skiko-js-wasm-runtime/0.9.37-3/skiko.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/skiko-js-wasm-runtime/0.9.37-3/skikod8.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/skiko-wasm-js/0.9.37-3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/skiko-wasm-js/0.9.37-3/pre-setup.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/skiko-wasm-js/0.9.37-3/pre-skiko-test.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/packages_imported/skiko-wasm-js/0.9.37-3/skikoCallbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/wasm/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/com/kodeco/breeze/model/AqiLevel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/com/kodeco/breeze/model/City.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/com/kodeco/breeze/model/StubCities.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/com/kodeco/breeze/ui/AqiCard.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/com/kodeco/breeze/ui/AqiCardPreview.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/com/kodeco/breeze/ui/CityList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/Configuration/Config.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/project.xcworkspace/xcuserdata/carlosmota.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/project.xcworkspace/xcuserdata/carlosmota.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/xcuserdata/carlosmota.xcuserdatad/xcschemes/iosApp.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/xcuserdata/carlosmota.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp/ContentView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iosApp/iosApp/iOSApp.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin-js-store/wasm/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[LocalEmulator::path=/Users/carlosmota/.android/avd/Pixel_9a.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/composeApp">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Breeze" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../.." value="chapter-01-introduction" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cmota&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kodecocodes/comp-materials.git&quot;,
+    &quot;accountId&quot;: &quot;444b7a0f-4b09-4e32-a5bd-e5e9fd3059fa&quot;
+  }
+}</component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-8.14.3-bin/cv11ve7ro1n3o1j4so8xd9n66/gradle-8.14.3" javaHome="$APPLICATION_HOME_DIR$/jbr/Contents/Home" gradleVersion="8.14.3">
+    <option name="jvmArguments">
+      <list>
+        <option value="-Didea.compose.hot-reload=true" />
+        <option value="-Didea.compose.hot-reload.version=2" />
+      </list>
+    </option>
+  </component>
+  <component name="JiraServerManager">
+    <selected>-1</selected>
+    <servers />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3BTfueED1P6dr1spdj0duw1XhWr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.composeApp.executor": "Run",
+    "Gradle.Breeze [:composeApp:com.kodeco.breeze.MainKt.main()].executor": "Run",
+    "Gradle.composeApp [jvm].executor": "Run",
+    "Gradle.composeApp [wasmJs].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "Xcode Application.iosApp.executor": "Run",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "editions/1.0",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "compose-hot-reload",
+    "settings.editor.splitter.proportion": "0.35847703"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.composeApp [jvm]">
+    <configuration name="composeApp" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Breeze.composeApp" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="iosApp" TARGET_NAME="iosApp" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_SUPPORTED="true" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" DEVELOPMENT_TEAM="" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iosApp" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="iosApp" TARGET_NAME="iosApp" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_SUPPORTED="true" SCHEME_NAME="iosApp" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" DEVELOPMENT_TEAM="" RUN_TARGET_PROJECT_NAME="iosApp" RUN_TARGET_NAME="iosApp" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="composeApp [js]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/composeApp" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jsBrowserDevelopmentRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <EXTENSION ID="com.android.tools.idea.testartifacts.testsuite.GradleRunConfigurationExtension">
+        <com.android.tools.idea.testartifacts.testsuite.SHOW_TEST_RESULT_IN_ANDROID_TEST_SUITE_VIEW>false</com.android.tools.idea.testartifacts.testsuite.SHOW_TEST_RESULT_IN_ANDROID_TEST_SUITE_VIEW>
+        <android.execution.deploysToLocalDevice>false</android.execution.deploysToLocalDevice>
+      </EXTENSION>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>true</GradleProfilingDisabled>
+      <GradleCoverageDisabled>true</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="composeApp [jvm]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/composeApp" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-DmainClass=com.kodeco.breeze.MainKt --quiet" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jvmRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <EXTENSION ID="com.android.tools.idea.testartifacts.testsuite.GradleRunConfigurationExtension">
+        <com.android.tools.idea.testartifacts.testsuite.SHOW_TEST_RESULT_IN_ANDROID_TEST_SUITE_VIEW>false</com.android.tools.idea.testartifacts.testsuite.SHOW_TEST_RESULT_IN_ANDROID_TEST_SUITE_VIEW>
+        <android.execution.deploysToLocalDevice>false</android.execution.deploysToLocalDevice>
+      </EXTENSION>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="composeApp [wasmJs]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/composeApp" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="wasmJsBrowserDevelopmentRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <EXTENSION ID="com.android.tools.idea.testartifacts.testsuite.GradleRunConfigurationExtension">
+        <com.android.tools.idea.testartifacts.testsuite.SHOW_TEST_RESULT_IN_ANDROID_TEST_SUITE_VIEW>false</com.android.tools.idea.testartifacts.testsuite.SHOW_TEST_RESULT_IN_ANDROID_TEST_SUITE_VIEW>
+        <android.execution.deploysToLocalDevice>false</android.execution.deploysToLocalDevice>
+      </EXTENSION>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>true</GradleProfilingDisabled>
+      <GradleCoverageDisabled>true</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodeco.breeze.MainKt" />
+      <module name="Breeze.composeApp.jvmMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.composeApp" />
+      <item itemvalue="Gradle.composeApp [js]" />
+      <item itemvalue="Gradle.composeApp [jvm]" />
+      <item itemvalue="Gradle.composeApp [wasmJs]" />
+      <item itemvalue="Kotlin.MainKt" />
+      <item itemvalue="Xcode Application.iosApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1f32391-68a4-46c6-bfde-f8fa852285e5" name="Changes" comment="" />
+      <created>1689595240800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689595240800</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XcodeBuildConfigurationMetadata">
+    <buildConfigurationMetadataMap>
+      <entry key="Xcode Application.iosApp">
+        <BuildConfigurationMetadata buildDestinationId="iphonesimulator_C70704CD-A3E7-4DB8-9630-A588E53DBFEB" />
+      </entry>
+    </buildConfigurationMetadataMap>
+  </component>
+</project>
